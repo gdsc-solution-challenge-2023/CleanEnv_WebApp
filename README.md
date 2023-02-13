@@ -9,3 +9,9 @@ Web Application for CleanEnv Project
 
 ## Sign Up Page
 ![Screenshot (101)](https://user-images.githubusercontent.com/68693240/218255816-67445d1a-0720-4163-8c28-93d8079fa5c4.png)
+
+# About US
+![Screenshot (102)](https://user-images.githubusercontent.com/68693240/218384355-0f4d585f-83e6-4408-90a7-b45d3284742a.png)
+
+# Recycle
+![Screenshot (103)](https://user-images.githubusercontent.com/68693240/218384386-c9093a8f-410c-4bb4-a8f5-a599c9eea5e8.png)
