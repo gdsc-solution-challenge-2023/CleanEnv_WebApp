@@ -1,0 +1,101 @@
+.loginBodyClass
+{
+  display: flex;
+  align-items: center;
+  background-color: #EBF4E8;
+  align-items: center;
+
+}
+.form-signin{
+  max-width: 700px;
+  padding: 15px;
+}
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: 2px;
+  border-color: #81a969;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-color: #81a969;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: 2px;
+  border-color: #81a969;
+}
+
+.h3{
+     text-shadow: 1px 2px 2px black;
+}
+.googleLogo{
+	border-radius: 50px;
+	border-color: #fff;
+	border-width: 1px;
+	border-style: solid;
+	box-shadow: 1px 1px;
+}
+.loginButton{
+	background-color: #BDDDB0;
+	color: #5A5453;
+}
+.signUpButton{
+	background-color: #BDDDB0;
+	color: #5A5453;
+}
+.navbar-theme{
+	background-color: #81a969;
+}
+.recycle-item{
+	background-color: white;
+	width: 100px;
+	margin-left: 20px;
+	margin-top: 100px;
+	border-radius: 10px;
+	box-shadow: 0px 2px 4px 0px rgba(.2,0,0,.2);
+}
+.change-color{
+	background-color: #EBF4E8;
+}
+.about-us-button{
+	width: 20%;
+	background-color: #BDDDB0;
+	color: #5A5453;
+}
+.change-background{
+	background-color: #EBF4E8;
+}
+nav{
+	/*box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);*/
+	background-color: #BDDDB0;
+}
+.nav-link{
+	color: #5A5453;
+	font-weight: 500;
+}
+.nav-link:hover{
+	color: white;
+}
+.font-style-body{
+	font-family: Times, Times New Roman, serif;
+	font-stretch: ultra-condensed;
+}
+.font-style-heading{
+	font-family: Times, Times New Roman, serif;
+	font-stretch: ultra-expanded;
+	font-weight: 800;
+}
+form{
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 700px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
