@@ -1,5 +1,9 @@
-**Clean Env**
+**CleanEnv: Google Solution Challenge 2023**
 =============
+_This Repository contains the Source code of our Solution for the Google Solution Challenge 2023_
+_We undertook the UN Goals: "Climate Change" & "Decent Work and Economic Growth"._
+
+
 
   
 
@@ -22,9 +26,16 @@
 2.  _For the User(Customer) side, select the Customer option_
 3.  _For the Employee side, select the Employee option_
 
-***Note: The application requires Location Services to be Enabled***
+***Note: The application requires Location Services to be Enabled. The Application requires a minimum of Android ()+ to run***
 
 
 ### **Web Application**
 
 _The Web application can be accessed by visiting the following link:[Web app](https://storage.googleapis.com/www.cleanenv.app/AboutUs.html)_
+
+
+
+**Note**
+--------
+
+*The source codes of the applications are present in their respective folders in the repository.*
