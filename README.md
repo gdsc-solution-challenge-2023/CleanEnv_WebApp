@@ -1,7 +1,6 @@
 ![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/68693240/228889405-a6ac383e-c61c-49b2-891e-f2d21d9754b7.png)
 
 
-=============
 With this app a CleanEnv partner colllects the  scrap materials from the door steps which will be recycled by our partnered recycling companies.Thus this app follows the 3Rs (Recycle, Reduce,Reuse).Hence promoting a sustainable environment.
 
 ### **Web Application**
